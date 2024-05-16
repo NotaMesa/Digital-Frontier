@@ -9,6 +9,6 @@
     <title>Introducing NotaMesa</title>
 </head>
 <body>
-    
+    Some stuff here...
 </body>
 </html>
