@@ -5,6 +5,11 @@
     padding: 0;
   }
 
-  body {
+  /* body {
 
+  }
+  */
+
+  p {
+    z-index: 1;
   }
