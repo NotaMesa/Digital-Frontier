@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         star.style.height = `${size}px`;
         star.style.top = `${Math.random() * 100}%`; // Random position
         star.style.left = `${Math.random() * 100}%`; // Random position
-        star.style.animationDuration = `${Math.random() * 30 + 30}s`; // Random animation duration between 50s and 100s
+        star.style.animationDuration = `${Math.random() * 30 + 30}s`; // Random animation duration between 30s and 60s
         space.appendChild(star);
     }
 });

@@ -7,9 +7,9 @@
 
   /* body {
 
-  }
-  */
+  } */
 
   p {
+    font-size: 200%; /* remove after testing */
     z-index: 1;
   }
