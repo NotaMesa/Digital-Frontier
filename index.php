@@ -21,7 +21,7 @@
     <section id='hero'>
         <div class="flashTitle"></div>
         <div class="flashTitle"></div>
-        <div class="flashTitle"></div>
+        <div class="flashTitle">Welcome to Digital Frontier</div>
         <div class="flashTitle">by Dave Butte</div>
     </section>
     <script type="text/javascript" src="assets/scripts/random_stars.js"></script>
